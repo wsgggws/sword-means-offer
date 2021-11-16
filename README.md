@@ -51,5 +51,7 @@ Input: Hello world, every one!
 Output: e
 ```
 
+##### 5. 三数之和 [solution](./code/three_sum_5.py)
+
 
 
