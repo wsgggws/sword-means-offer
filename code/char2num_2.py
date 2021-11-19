@@ -2,7 +2,7 @@ def _str2int(nums: str) -> int:
     result = 0
     tent = 0
     for num in nums[::-1]:
-        result += int(num) * (10**tent)
+        result += int(num) * (10 ** tent)
         tent += 1
     return result
 
@@ -36,7 +36,7 @@ def str2float(chars: str) -> float:
     return flags * (_str2int(nums) + _str2int(digits) / (10 ** len(digits)))
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
 
     assert str2float(".45") == 0.45
     assert str2float("45") == 45
@@ -49,5 +49,3 @@ if __name__ == '__main__':
     assert str2float("-103.4005") == -103.4005
     assert str2float("-103.4005000007") == -103.4005000007
     assert str2float("-103.0000000007") == -103.0000000007
-    str2float("0a5")
-    str2float("-12.3.45")
