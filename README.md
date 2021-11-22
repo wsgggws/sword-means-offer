@@ -53,5 +53,6 @@ Output: e
 
 ##### 5. 三数之和 [solution](./code/three_sum_5.py)
 
+### 剑指 Offer
 
-
+- 45. [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) [solution](./offer/_45.py)
