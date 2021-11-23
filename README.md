@@ -56,3 +56,4 @@ Output: e
 ### 剑指 Offer
 
 - 45. [把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) [solution](./offer/_45.py)
+- 46. [把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) [solution](./offer/_46.py)
