@@ -25,28 +25,37 @@
 
 class Solution:
     def lengthOfLongestSubstring(self, s: str) -> int:
+        """
+        abcabcbb
+        123?
+        maps = {a: 0, b: 1, c: 2}
+        --
+        abcabcbb
+         bca
+           3 # cur_index(a) - old_index(a) = 3 - 0 = 3
+        maps = {a: 0, b: 1, c: 2}
+        maps = {a: 3, b: 1, c: 2}
+        """
         maps = {}
-        current, result = 0, 0
-        slice_index = 0
+        maxs = 0
+        current = 0
+        start_index = 0
         for index, char in enumerate(s):
-            if char in maps and maps[char] >= slice_index:
+            if char in maps and maps[char] >= start_index:
                 current = index - maps[char]
-                slice_index = maps[char]
+                start_index = maps[char] + 1
             else:
                 current += 1
             maps[char] = index
-            result = max(result, current)
-        return result
+            maxs = max(maxs, current)
+        return maxs
 
 
 if __name__ == "__main__":
     s = Solution()
-    assert s.lengthOfLongestSubstring("") == 0
-    assert s.lengthOfLongestSubstring(" ") == 1
-    assert s.lengthOfLongestSubstring("au") == 2
-    assert s.lengthOfLongestSubstring("cdd") == 2
-    assert s.lengthOfLongestSubstring("abba") == 2
+    assert s.lengthOfLongestSubstring("abcabcbb") == 3
     assert s.lengthOfLongestSubstring("bbbbb") == 1
     assert s.lengthOfLongestSubstring("pwwkew") == 3
-    assert s.lengthOfLongestSubstring("ababa") == 2
-    assert s.lengthOfLongestSubstring("abcabcbb") == 3
+    assert s.lengthOfLongestSubstring("") == 0
+    assert s.lengthOfLongestSubstring(" ") == 1
+    assert s.lengthOfLongestSubstring("abcba") == 3

@@ -15,37 +15,45 @@
 # 0 <= s 的长度 <= 50000
 
 
+# from collections import Counter
+
+
 class Solution:
-    def firstUniqChar(self, s: str) -> str:
-        # 此方法需要利用 >=Python3.6 的字典有序(按插入时排序)特性!
-        # 用有序集合也是可以的
-        recorder = {}
-        duplicated = set()
-
-        for char in s:
-            if char not in recorder and char not in duplicated:
-                recorder[char] = char
-            elif char in recorder:
-                duplicated.add(recorder.pop(char))
-
-        # 利用 Python3.6 字典排序，这里输出第1个即可!
-        for char in recorder:
-            return char
-        return " "
-
     # def firstUniqChar(self, s: str) -> str:
+    #     """ """
+    #     # O(N+N) = O(2N)
     #     counter = Counter(s)
     #     for char in s:
     #         if counter[char] == 1:
     #             return char
     #     return " "
+    def firstUniqChar(self, s: str) -> str:
+        """
+        O(N)
+        python3.6 dict 是按插入时间有序的特性，or OrderSet
+        aabbac
+        maps = {a:a}
+        maps = {c:c}
+        duplicated = {a,b}
+        """
+        maps = {}
+        duplicated = set()
+
+        for char in s:
+            if char in maps:
+                maps.pop(char)
+                duplicated.add(char)
+            else:
+                if char not in duplicated:
+                    maps[char] = char
+
+        for char in maps:
+            return char
+        return " "
 
 
 if __name__ == "__main__":
     s = Solution()
-    assert s.firstUniqChar("leetcode") == "l"
-    assert s.firstUniqChar("abaccdeff") == "b"
+    assert s.firstUniqChar("abaccdefff") == "b"
+    assert s.firstUniqChar("aabbac") == "c"
     assert s.firstUniqChar("") == " "
-    assert s.firstUniqChar("cc") == " "
-    assert s.firstUniqChar("ccb") == "b"
-    assert s.firstUniqChar("cbdc") == "b"
