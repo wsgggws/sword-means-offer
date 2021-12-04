@@ -55,9 +55,10 @@ Output: e
 
 ### 剑指 Offer
 
-- [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) [solution](./offer/_45.py)
-- [46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) [solution](./offer/_46.py)
-- [47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) [solution](./offer/_47.py)
-- [48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) [solution](./offer/_48.py)
-- [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) [solution](./code/_49.py)
-- [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) [solution](./offer/_50.py)
+- [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/) [solution](./offer/_44.py) [video](https://www.bilibili.com/video/BV1RU4y1T7Jp)
+- [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/) [solution](./offer/_45.py) [video](https://www.bilibili.com/video/BV18b4y1b7YB/)
+- [46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/) [solution](./offer/_46.py) [video](https://www.bilibili.com/video/BV14M4y1P7kv/)
+- [47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/) [solution](./offer/_47.py) [video](https://www.bilibili.com/video/BV1uU4y1T7Aj/)
+- [48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/) [solution](./offer/_48.py) [video](https://www.bilibili.com/video/BV1j3411b7sg/)
+- [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/) [solution](./code/_49.py) [video](https://www.bilibili.com/video/BV1Wf4y1K7vr/)
+- [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/) [solution](./offer/_50.py) [video](https://www.bilibili.com/video/BV1iq4y1B7PM/)
