@@ -66,3 +66,4 @@ Output: e
 - [66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)     [solution](./offer/_66.py)      [video](https://www.bilibili.com/video/BV1hF411z74E/)
 - [67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)      [solution](./offer/_67.py)      [video](https://www.bilibili.com/video/BV1wQ4y1v7GW/)
 - [II 005. 单词长度的最大乘积](https://leetcode-cn.com/problems/aseY1I/)      [solution](./offer/ii_005.py)       [video](https://www.bilibili.com/video/BV1N3411t7RT/)
+- [II 008. 和大于等于 target 的最短子数组](https://leetcode-cn.com/problems/2VG8Kg/)      [solution](./offer/ii_008.py)       [video](https://www.bilibili.com/video/BV15P4y1G7SQ/)
