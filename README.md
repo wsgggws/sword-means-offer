@@ -56,6 +56,7 @@ Output: e
 ### 剑指 Offer
 
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
+- [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
 - [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     [solution](./offer/_44.py)      [video](https://www.bilibili.com/video/BV1RU4y1T7Jp)
 - [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)      [solution](./offer/_45.py)       [video](https://www.bilibili.com/video/BV18b4y1b7YB/)
 - [46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)       [solution](./offer/_46.py)      [video](https://www.bilibili.com/video/BV14M4y1P7kv/)
