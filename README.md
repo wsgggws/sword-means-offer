@@ -57,6 +57,7 @@ Output: e
 
 - [04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)     [solution](./offer/_04.py)      [video](https://www.bilibili.com/video/BV1Vi4y1o7vx/)
 - [06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)     [solution](./offer/_06.py)      [video](https://www.bilibili.com/video/BV1gZ4y1X7MZ/)
+- [10-I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)     [solution](./offer/_10_i.py)      [video](https://www.bilibili.com/video/BV1pY411H7d4/)
 - [12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)     [solution](./offer/_12.py)      [video](https://www.bilibili.com/video/BV1PQ4y1Y7RB/)
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
