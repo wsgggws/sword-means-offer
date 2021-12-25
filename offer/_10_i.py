@@ -47,12 +47,22 @@ class Solution:
         #     f0, f1
         # 哪上当进行一次迭代时，明显 f1 表示的是前两数之和 (f0+f1),
         # 而 f0 表示的是上一次迭代的 f1, 即可同时赋值完成一次迭代 f0, f1 = f1, f0 + f1
+        # if 0 <= n <= 1:
+        #     return n
+        # f0, f1 = 0, 1
+        # for _ in range(2, n + 1):
+        #     f0, f1 = f1, (f0 + f1) % self.NUMBER
+        # return f1
+
+        # 或许用 3 个变量更容易理解；）
         if 0 <= n <= 1:
             return n
-        f0, f1 = 0, 1
+        f0, f1, f2 = 0, 1, 1
         for _ in range(2, n + 1):
-            f0, f1 = f1, (f0 + f1) % self.NUMBER
-        return f1
+            f2 = (f0 + f1) % self.NUMBER
+            f0 = f1
+            f1 = f2
+        return f2
 
 
 if __name__ == "__main__":
