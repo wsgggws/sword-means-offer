@@ -33,6 +33,8 @@ class ListNode:
 
 
 def create_link(nums: List[int]) -> ListNode:
+    if len(nums) == 0:
+        return None
     if len(nums) == 1:
         return ListNode(nums[0])
     node = ListNode(nums[0])
@@ -71,4 +73,7 @@ if __name__ == "__main__":
     assert trave_link(head) == [1]
     head = s.deleteNode(head, 1)
     assert head is None
+    assert trave_link(head) == []
+    nums = []
+    head = create_link(nums)
     assert trave_link(head) == []
