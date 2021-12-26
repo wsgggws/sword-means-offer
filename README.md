@@ -63,6 +63,7 @@ Output: e
 - [12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)     [solution](./offer/_12.py)      [video](https://www.bilibili.com/video/BV1PQ4y1Y7RB/)
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
 - [18. 删除链表的节点-递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_i.py)      [video](https://www.bilibili.com/video/BV1iY411H7Yc/)
+- [18. 删除链表的节点-非递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_ii.py)      [video](https://www.bilibili.com/video/BV13F411B7c2/)
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
 - [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     [solution](./offer/_44.py)      [video](https://www.bilibili.com/video/BV1RU4y1T7Jp)
 - [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)      [solution](./offer/_45.py)       [video](https://www.bilibili.com/video/BV18b4y1b7YB/)
