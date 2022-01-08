@@ -64,6 +64,7 @@ Output: e
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
 - [18. 删除链表的节点-递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_i.py)      [video](https://www.bilibili.com/video/BV1iY411H7Yc/)
 - [18. 删除链表的节点-非递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_ii.py)      [video](https://www.bilibili.com/video/BV13F411B7c2/)
+- [20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)     [solution](./offer/_20.py)      [video](https://www.bilibili.com/video/BV1ku41127L6/)
 - [21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)     [solution](./offer/_21.py)      [video](https://www.bilibili.com/video/BV1fi4y197NQ/)
 - [24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)     [solution](./offer/_24.py)      [video](https://www.bilibili.com/video/BV1b44y1J72N/)
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
