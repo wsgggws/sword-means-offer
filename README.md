@@ -62,6 +62,7 @@ Output: e
 - [11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)     [solution](./offer/_11.py)      [video](https://www.bilibili.com/video/BV1A44y177oj/)
 - [12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)     [solution](./offer/_12.py)      [video](https://www.bilibili.com/video/BV1PQ4y1Y7RB/)
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
+- [17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)     [solution](./offer/_17.py)      [video](https://www.bilibili.com/video/BV1za411q7v4/)
 - [18. 删除链表的节点-递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_i.py)      [video](https://www.bilibili.com/video/BV1iY411H7Yc/)
 - [18. 删除链表的节点-非递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_ii.py)      [video](https://www.bilibili.com/video/BV13F411B7c2/)
 - [20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)     [solution](./offer/_20.py)      [video](https://www.bilibili.com/video/BV1ku41127L6/)
