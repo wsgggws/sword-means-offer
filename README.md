@@ -70,6 +70,7 @@ Output: e
 - [21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)     [solution](./offer/_21.py)      [video](https://www.bilibili.com/video/BV1fi4y197NQ/)
 - [24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)     [solution](./offer/_24.py)      [video](https://www.bilibili.com/video/BV1b44y1J72N/)
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
+- [38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)     [solution](./offer/_38.py)      [video](https://www.bilibili.com/video/BV1QZ4y1S75m/)
 - [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     [solution](./offer/_44.py)      [video](https://www.bilibili.com/video/BV1RU4y1T7Jp)
 - [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)      [solution](./offer/_45.py)       [video](https://www.bilibili.com/video/BV18b4y1b7YB/)
 - [46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)       [solution](./offer/_46.py)      [video](https://www.bilibili.com/video/BV14M4y1P7kv/)
