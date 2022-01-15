@@ -81,6 +81,7 @@ Output: e
 - [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)       [solution](./code/_49.py)       [video](https://www.bilibili.com/video/BV1Wf4y1K7vr/)
 - [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)     [solution](./offer/_50.py)      [video](https://www.bilibili.com/video/BV1iq4y1B7PM/)
 - [57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)     [solution](./offer/_57.py)      [video](https://www.bilibili.com/video/BV1Na411B7Yc/)
+- [57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)     [solution](./offer/_57_ii.py)      [video](https://www.bilibili.com/video/BV1hT4y117QV/)
 - [58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)     [solution](./offer/_58.py)      [video](https://www.bilibili.com/video/BV1hL4y1b72y/)
 - [63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)     [solution](./offer/_63.py)      [video](https://www.bilibili.com/video/BV1YU4y1K7yA/)
 - [66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)     [solution](./offer/_66.py)      [video](https://www.bilibili.com/video/BV1hF411z74E/)
