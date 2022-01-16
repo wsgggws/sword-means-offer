@@ -61,6 +61,7 @@ Output: e
 - [10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)     [solution](./offer/_10_ii.py)      [video](https://www.bilibili.com/video/BV1mR4y1W7G8/)
 - [11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)     [solution](./offer/_11.py)      [video](https://www.bilibili.com/video/BV1A44y177oj/)
 - [12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)     [solution](./offer/_12.py)      [video](https://www.bilibili.com/video/BV1PQ4y1Y7RB/)
+- [14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)     [solution](./offer/_14_i.py)      [video](https://www.bilibili.com/video/BV1Pa411B7ZG/)
 - [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
 - [16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)     [solution](./offer/_16.py)      [video](https://www.bilibili.com/video/BV1fq4y1w7tB/)
 - [17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)     [solution](./offer/_17.py)      [video](https://www.bilibili.com/video/BV1za411q7v4/)
