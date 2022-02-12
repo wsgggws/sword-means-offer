@@ -82,6 +82,7 @@ Output: e
 - [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)       [solution](./offer/_49.py)       [video](https://www.bilibili.com/video/BV1Wf4y1K7vr/)
 - [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)     [solution](./offer/_50.py)      [video](https://www.bilibili.com/video/BV1iq4y1B7PM/)
 - [53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)     [solution](./offer/_53_i.py)      [video](https://www.bilibili.com/video/BV1Bm4y1Z78w/)
+- [53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)     [solution](./offer/_53_ii.py)      [video](https://www.bilibili.com/video/BV1pS4y1C7Si/)
 - [57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)     [solution](./offer/_57.py)      [video](https://www.bilibili.com/video/BV1Na411B7Yc/)
 - [57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)     [solution](./offer/_57_ii.py)      [video](https://www.bilibili.com/video/BV1hT4y117QV/)
 - [58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)     [solution](./offer/_58.py)      [video](https://www.bilibili.com/video/BV1hL4y1b72y/)
