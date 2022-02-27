@@ -73,6 +73,7 @@ Output: e
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
 - [38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)     [solution](./offer/_38.py)      [video](https://www.bilibili.com/video/BV1QZ4y1S75m/)
 - [39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)     [solution](./offer/_39.py)      [video](https://www.bilibili.com/video/BV1bT4y1m7Pa/)
+- [40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)     [solution](./offer/_40.py)      [video](https://www.bilibili.com/video/BV1DL4y1M76v/)
 - [42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)     [solution](./offer/_42.py)      [video](https://www.bilibili.com/video/BV1M44y1L73E/)
 - [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     [solution](./offer/_44.py)      [video](https://www.bilibili.com/video/BV1RU4y1T7Jp)
 - [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)      [solution](./offer/_45.py)       [video](https://www.bilibili.com/video/BV18b4y1b7YB/)
