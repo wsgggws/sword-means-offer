@@ -16,6 +16,7 @@
 - [21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)     [solution](./offer/_21.py)      [video](https://www.bilibili.com/video/BV1fi4y197NQ/)
 - [22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)     [solution](./offer/_22.py)      [video](https://www.bilibili.com/video/BV1bR4y157gP/)
 - [24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)     [solution](./offer/_24.py)      [video](https://www.bilibili.com/video/BV1b44y1J72N/)
+- [25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)     [solution](./offer/_25.py)      [video](https://www.bilibili.com/video/BV1ZP4y1g7W8/)
 - [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
 - [38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)     [solution](./offer/_38.py)      [video](https://www.bilibili.com/video/BV1QZ4y1S75m/)
 - [39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)     [solution](./offer/_39.py)      [video](https://www.bilibili.com/video/BV1bT4y1m7Pa/)
