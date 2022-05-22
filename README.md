@@ -1,46 +1,9 @@
-# 剑指 Offer
+# Sword Means Offer
 
-- [04. 二维数组中的查找](https://leetcode-cn.com/problems/er-wei-shu-zu-zhong-de-cha-zhao-lcof/)     [solution](./offer/_04.py)      [video](https://www.bilibili.com/video/BV1Vi4y1o7vx/)
-- [06. 从尾到头打印链表](https://leetcode-cn.com/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)     [solution](./offer/_06.py)      [video](https://www.bilibili.com/video/BV1gZ4y1X7MZ/)
-- [10-I. 斐波那契数列](https://leetcode-cn.com/problems/fei-bo-na-qi-shu-lie-lcof/)     [solution](./offer/_10_i.py)      [video](https://www.bilibili.com/video/BV1pY411H7d4/)
-- [10- II. 青蛙跳台阶问题](https://leetcode-cn.com/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)     [solution](./offer/_10_ii.py)      [video](https://www.bilibili.com/video/BV1mR4y1W7G8/)
-- [11. 旋转数组的最小数字](https://leetcode-cn.com/problems/xuan-zhuan-shu-zu-de-zui-xiao-shu-zi-lcof/)     [solution](./offer/_11.py)      [video](https://www.bilibili.com/video/BV1A44y177oj/)
-- [12. 矩阵中的路径](https://leetcode-cn.com/problems/ju-zhen-zhong-de-lu-jing-lcof/)     [solution](./offer/_12.py)      [video](https://www.bilibili.com/video/BV1PQ4y1Y7RB/)
-- [14- II. 剪绳子 II](https://leetcode-cn.com/problems/jian-sheng-zi-ii-lcof/)     [solution](./offer/_14_i.py)      [video](https://www.bilibili.com/video/BV1Pa411B7ZG/)
-- [15. 二进制中1的个数](https://leetcode-cn.com/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)     [solution](./offer/_15.py)      [video](https://www.bilibili.com/video/BV1Um4y1X7Tb/)
-- [16. 数值的整数次方](https://leetcode-cn.com/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)     [solution](./offer/_16.py)      [video](https://www.bilibili.com/video/BV1fq4y1w7tB/)
-- [17. 打印从1到最大的n位数](https://leetcode-cn.com/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)     [solution](./offer/_17.py)      [video](https://www.bilibili.com/video/BV1za411q7v4/)
-- [18. 删除链表的节点-递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_i.py)      [video](https://www.bilibili.com/video/BV1iY411H7Yc/)
-- [18. 删除链表的节点-非递归实现](https://leetcode-cn.com/problems/shan-chu-lian-biao-de-jie-dian-lcof/)     [solution](./offer/_18_ii.py)      [video](https://www.bilibili.com/video/BV13F411B7c2/)
-- [20. 表示数值的字符串](https://leetcode-cn.com/problems/biao-shi-shu-zhi-de-zi-fu-chuan-lcof/)     [solution](./offer/_20.py)      [video](https://www.bilibili.com/video/BV1ku41127L6/)
-- [21. 调整数组顺序使奇数位于偶数前面](https://leetcode-cn.com/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)     [solution](./offer/_21.py)      [video](https://www.bilibili.com/video/BV1fi4y197NQ/)
-- [22. 链表中倒数第k个节点](https://leetcode-cn.com/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)     [solution](./offer/_22.py)      [video](https://www.bilibili.com/video/BV1bR4y157gP/)
-- [24. 反转链表](https://leetcode-cn.com/problems/fan-zhuan-lian-biao-lcof/)     [solution](./offer/_24.py)      [video](https://www.bilibili.com/video/BV1b44y1J72N/)
-- [25. 合并两个排序的链表](https://leetcode-cn.com/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)     [solution](./offer/_25.py)      [video](https://www.bilibili.com/video/BV1ZP4y1g7W8/)
-- [31. 栈的压入、弹出序列](https://leetcode-cn.com/problems/zhan-de-ya-ru-dan-chu-xu-lie-lcof/)     [solution](./offer/_31.py)      [video](https://www.bilibili.com/video/BV1Ki4y1o7VZ/)
-- [38. 字符串的排列](https://leetcode-cn.com/problems/zi-fu-chuan-de-pai-lie-lcof/)     [solution](./offer/_38.py)      [video](https://www.bilibili.com/video/BV1QZ4y1S75m/)
-- [39. 数组中出现次数超过一半的数字](https://leetcode-cn.com/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)     [solution](./offer/_39.py)      [video](https://www.bilibili.com/video/BV1bT4y1m7Pa/)
-- [40. 最小的k个数](https://leetcode-cn.com/problems/zui-xiao-de-kge-shu-lcof/)     [solution](./offer/_40.py)      [video](https://www.bilibili.com/video/BV1DL4y1M76v/)
-- [42. 连续子数组的最大和](https://leetcode-cn.com/problems/lian-xu-zi-shu-zu-de-zui-da-he-lcof/)     [solution](./offer/_42.py)      [video](https://www.bilibili.com/video/BV1M44y1L73E/)
-- [44. 数字序列中某一位的数字](https://leetcode-cn.com/problems/shu-zi-xu-lie-zhong-mou-yi-wei-de-shu-zi-lcof/)     [solution](./offer/_44.py)      [video](https://www.bilibili.com/video/BV1RU4y1T7Jp)
-- [45. 把数组排成最小的数](https://leetcode-cn.com/problems/ba-shu-zu-pai-cheng-zui-xiao-de-shu-lcof/)      [solution](./offer/_45.py)       [video](https://www.bilibili.com/video/BV18b4y1b7YB/)
-- [46. 把数字翻译成字符串](https://leetcode-cn.com/problems/ba-shu-zi-fan-yi-cheng-zi-fu-chuan-lcof/)       [solution](./offer/_46.py)      [video](https://www.bilibili.com/video/BV14M4y1P7kv/)
-- [47. 礼物的最大价值](https://leetcode-cn.com/problems/li-wu-de-zui-da-jie-zhi-lcof/)      [solution](./offer/_47.py)   [video](https://www.bilibili.com/video/BV1uU4y1T7Aj/)
-- [48. 最长不含重复字符的子字符串](https://leetcode-cn.com/problems/zui-chang-bu-han-zhong-fu-zi-fu-de-zi-zi-fu-chuan-lcof/)    [solution](./offer/_48.py)      [video](https://www.bilibili.com/video/BV1j3411b7sg/)
-- [49. 丑数](https://leetcode-cn.com/problems/chou-shu-lcof/)       [solution](./offer/_49.py)       [video](https://www.bilibili.com/video/BV1Wf4y1K7vr/)
-- [50. 第一个只出现一次的字符](https://leetcode-cn.com/problems/di-yi-ge-zhi-chu-xian-yi-ci-de-zi-fu-lcof/)     [solution](./offer/_50.py)      [video](https://www.bilibili.com/video/BV1iq4y1B7PM/)
-- [52. 两个链表的第一个公共节点](https://leetcode-cn.com/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)     [solution](./offer/_52.py)      [video](https://www.bilibili.com/video/BV1yU4y1o76J/)
-- [53 - I. 在排序数组中查找数字 I](https://leetcode-cn.com/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)     [solution](./offer/_53_i.py)      [video](https://www.bilibili.com/video/BV1Bm4y1Z78w/)
-- [53 - II. 0～n-1中缺失的数字](https://leetcode-cn.com/problems/que-shi-de-shu-zi-lcof/)     [solution](./offer/_53_ii.py)      [video](https://www.bilibili.com/video/BV1pS4y1C7Si/)
-- [56 - I. 数组中数字出现的次数](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)     [solution](./offer/_56_i.py)      [video](https://www.bilibili.com/video/BV1dT4y1m7XY)
-- [56 - II. 数组中数字出现的次数 II](https://leetcode-cn.com/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)     [solution](./offer/_56_ii.py)      [video](https://www.bilibili.com/video/BV1su411B7vB/)
-- [57. 和为s的两个数字](https://leetcode-cn.com/problems/he-wei-sde-liang-ge-shu-zi-lcof/)     [solution](./offer/_57.py)      [video](https://www.bilibili.com/video/BV1Na411B7Yc/)
-- [57 - II. 和为s的连续正数序列](https://leetcode-cn.com/problems/he-wei-sde-lian-xu-zheng-shu-xu-lie-lcof/)     [solution](./offer/_57_ii.py)      [video](https://www.bilibili.com/video/BV1hT4y117QV/)
-- [58 - I. 翻转单词顺序](https://leetcode-cn.com/problems/fan-zhuan-dan-ci-shun-xu-lcof/)     [solution](./offer/_58_i.py)      [video](https://www.bilibili.com/video/BV1hL4y1b72y/)
-- [58 - II. 左旋转字符串](https://leetcode-cn.com/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)     [solution](./offer/_58_ii.py)      [video](https://www.bilibili.com/video/BV1V44y1n78E/)
-- [61. 扑克牌中的顺子](https://leetcode-cn.com/problems/bu-ke-pai-zhong-de-shun-zi-lcof/)     [solution](./offer/_61.py)      [video](https://www.bilibili.com/video/BV18a411C7WK/)
-- [63. 股票的最大利润](https://leetcode-cn.com/problems/gu-piao-de-zui-da-li-run-lcof/)     [solution](./offer/_63.py)      [video](https://www.bilibili.com/video/BV1YU4y1K7yA/)
-- [66. 构建乘积数组](https://leetcode-cn.com/problems/gou-jian-cheng-ji-shu-zu-lcof/)     [solution](./offer/_66.py)      [video](https://www.bilibili.com/video/BV1hF411z74E/)
-- [67. 把字符串转换成整数](https://leetcode-cn.com/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)      [solution](./offer/_67.py)      [video](https://www.bilibili.com/video/BV1wQ4y1v7GW/)
-- [II 005. 单词长度的最大乘积](https://leetcode-cn.com/problems/aseY1I/)      [solution](./offer/ii_005.py)       [video](https://www.bilibili.com/video/BV1N3411t7RT/)
-- [II 008. 和大于等于 target 的最短子数组](https://leetcode-cn.com/problems/2VG8Kg/)      [solution](./offer/ii_008.py)       [video](https://www.bilibili.com/video/BV15P4y1G7SQ/)
+在 Leetcode 上《剑指 Offer》相关的题目
+
+使用 Python3 实现。
+
+测试只使用 assert 语句。
+
+欢迎指正；）
