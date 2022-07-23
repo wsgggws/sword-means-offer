@@ -82,7 +82,7 @@ class Solution:
         return False
 
     def _binary_search(self, array: List[int], target: int) -> int:
-        # [)
+        # [) 左闭右开
         left, right = 0, len(array)
         while left < right:
             mid = left + (right - left) // 2
